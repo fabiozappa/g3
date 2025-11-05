@@ -3,7 +3,7 @@
 	
 	
 	
-	print("test");
+	print("test modificto ");
 	
 	
 	phpinfo();
