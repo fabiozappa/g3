@@ -1,0 +1,4 @@
+/**
+ * Questo directory contiene le librerie create ad hoc per il framework
+ * non sono incluse, in questa directory, eventuali librerie esterne
+ */
